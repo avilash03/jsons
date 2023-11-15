@@ -1,0 +1,27 @@
+ [
+    {
+      "Product Name": "Monitor",
+      "Quantity": 20,
+      "Price": 300
+    },
+    {
+      "Product Name": "External Hard Drive",
+      "Quantity": 35,
+      "Price": 100
+    },
+    {
+      "Product Name": "Wireless Mouse",
+      "Quantity": 50,
+      "Price": 25
+    },
+    {
+      "Product Name": "Keyboard",
+      "Quantity": 40,
+      "Price": 80
+    },
+    {
+      "Product Name": "USB-C Adapter",
+      "Quantity": 60,
+      "Price": 20
+    }
+  ]
