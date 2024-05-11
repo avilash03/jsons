@@ -1,0 +1,5 @@
+<Response>
+    <Speak>Hello, this is a test call from me!</Speak>
+    <Wait length="2"/>
+    <Speak>Goodbye!</Speak>
+</Response>
